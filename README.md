@@ -44,3 +44,7 @@ Portfolio Repository
 • source- Apk files, documentation and project resources 
 
 • Readme.MD - Portfolio Documentation 
+# Contact Information 
+email: romorosamheland@gmail.com
+
+Github: 
