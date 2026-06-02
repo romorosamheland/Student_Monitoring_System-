@@ -18,16 +18,22 @@ UI/UX Design ; IDE ; Firebase ; Supabase ; Android Emulator
 The Mobile Student Monitoring System is a secure, real-time mobile application designed to bridge the communication gap between schools, teachers, and parents. It replaces traditional paper-based tracking by centralizing academic performance, daily attendance, and behavioral logs into an intuitive mobile dashboard. The platform ensures that parents stay informed about their child's school life while reducing the administrative workload for educators.
 # Log In Screen
 <img width="922" height="2048" alt="1000024537" src="https://github.com/user-attachments/assets/41f86921-2600-46ed-a8c1-e80c9a7e1929" />
+
 # Home Page for Administrator 
 
 <img width="1080" height="2436" alt="1000024538" src="https://github.com/user-attachments/assets/bf5ef01e-0396-4d0d-8c23-db1a02fae384" />
+
 # Home Page for Students
 
 <img width="922" height="2048" alt="1000024542" src="https://github.com/user-attachments/assets/a6450041-f083-4717-8fc7-ab6156df485f" />
+
 # Key Features
 
 # For Teachers
-One Tap attendance ; Instant grade book ; Behavior FlaggiFeaturesatendanceStudents
+One Tap attendance ; Instant grade book ; Behavior Flagging 
+
+# For Student
+
 Digital Timetable ; Assignment Tracker ; Performance Dashboard 
 # Technologies Used
 Android Studio ; Kotlin ; Firebase Authentication ; Github
