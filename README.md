@@ -28,12 +28,9 @@ The Mobile Student Monitoring System is a secure, real-time mobile application d
 <img width="922" height="2048" alt="1000024542" src="https://github.com/user-attachments/assets/a6450041-f083-4717-8fc7-ab6156df485f" />
 
 # Key Features
-
 # For Teachers
 One Tap attendance ; Instant grade book ; Behavior Flagging 
-
 # For Student
-
 Digital Timetable ; Assignment Tracker ; Performance Dashboard 
 # Technologies Used
 Android Studio ; Kotlin ; Firebase Authentication ; Github
