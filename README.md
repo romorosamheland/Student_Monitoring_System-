@@ -35,11 +35,11 @@ Digital Timetable ; Assignment Tracker ; Performance Dashboard
 # Technologies Used
 Android Studio ; Kotlin ; Firebase Authentication ; Github
 # Screenshot 
-Project Screenshot are available in the image folder
+<img width="4096" height="2304" alt="1000024566" src="https://github.com/user-attachments/assets/5b067838-6968-4ef1-95d0-52f21cdf877a" />
+<img width="4096" height="2304" alt="1000024565" src="https://github.com/user-attachments/assets/b613d4fb-d0f6-4ae3-9cd9-f82a35ec30d3" />
+
 # Repository Structure 
 Portfolio Repository 
-
-• Image- project screenshot and images
 
 • source- Apk files, documentation and project resources 
 
